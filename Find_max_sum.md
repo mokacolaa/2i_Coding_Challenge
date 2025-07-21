@@ -7,7 +7,7 @@
 # Functionality 
 
 ```python
-def max_digit_sum:
+def max_digit_sum(strings):
   max_sum = 0
 # Loop through each string in the input list
   for s in strings:
