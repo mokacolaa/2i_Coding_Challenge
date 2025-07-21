@@ -1,7 +1,10 @@
 # Assumptions:
+
 - Each sigit is a single character between 0-9
 - Strings may contain characters and no digits
 - Non digit characters will output no value
+
+# Functionality 
 
 ```python
 def max_digit_sum:
