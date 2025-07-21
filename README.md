@@ -1,5 +1,5 @@
 # 2i_Coding_Challenge
-## Largest sum of digits within a string
+## Max sum of digits within a string
 
 Given an array of strings, each made up of a combination of letters and digits, write the functionality to find and return the largest sum of digits within a string.
 
